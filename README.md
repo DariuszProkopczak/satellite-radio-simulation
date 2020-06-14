@@ -10,7 +10,7 @@ Can build using command similar to:
 
 clang++ -I <path to repo> main.cpp -std=c++17 -o satellite
  
-can run like: "./satellite "AM"" or "./satellite "FM""
+can run like: "./satellite AM" or "./satellite FM"
   
 # Example
 
