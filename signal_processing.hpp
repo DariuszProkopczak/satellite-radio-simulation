@@ -136,7 +136,6 @@ public:
 // FM Signal Processing Classes
 //
 
-// TODO: implement FM
 class TxFMProcessing : public TxProcessing {
 
     double dev;   // frequency deviation
