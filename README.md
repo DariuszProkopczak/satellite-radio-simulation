@@ -8,7 +8,7 @@ Note that the project is near completion but still requires a few bug fixes.
 # Build and run
 Can build using command similar to:
 
-clang++ -I <path to repo> main.cpp -std=c++17 -o satellite
+clang++ -I path/to_repo main.cpp -std=c++17 -o satellite
  
 can run like: "./satellite AM" or "./satellite FM"
   
