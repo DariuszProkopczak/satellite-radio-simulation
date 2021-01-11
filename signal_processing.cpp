@@ -1,7 +1,7 @@
 #include <string_view>
 #include <iostream>
-#include <signal_processing_factory.hpp>
-#include <LowPassFilter.hpp>
+#include "signal_processing_factory.cpp"
+#include "LowPassFilter.cpp"
 
 
 class SignalProcessing

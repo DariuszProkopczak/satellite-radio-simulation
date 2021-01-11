@@ -1,7 +1,7 @@
 #include <string_view>
 #include <iostream>
-#include <signal_processing.hpp>
-#include <signal_processing_visitor.hpp>
+#include "signal_processing.cpp"
+#include "signal_processing_visitor.cpp"
 
 // initialize factory types
 using AbstractSigProcFactory = signal_processing_factory<TxProcessing, RxProcessing>;

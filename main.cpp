@@ -1,9 +1,9 @@
 #include <iostream>
 // #include <expected/expected.h>
-#include <satellite.hpp>
-#include <data_source.hpp>
-#include <versioning.hpp>
-#include <IndentStream.hpp>
+#include "satellite.cpp"
+#include "data_source.cpp"
+#include "versioning.cpp"
+#include "IndentStream.cpp"
 
 //
 // External repos used:
